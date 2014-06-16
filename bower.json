@@ -1,0 +1,14 @@
+{
+  "name": "highlightjs",
+  "version": "7.0.1",
+  "description": "Javascript syntax highlighter",
+  "main": ["src/highlight.js", "styles/default.css"],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
